@@ -38,3 +38,6 @@ core.*
 
 # Ignore temporary backup directories.
 *-backup
+
+# Allow .gitattributes, used for e.g. syntax highlighting
+!.gitattributes
